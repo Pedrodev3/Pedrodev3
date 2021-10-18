@@ -14,7 +14,6 @@
   <img height="182em" width="415em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodev3&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +25,8 @@
   <div>
    <img align="right" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
   </div> 
+  
+  ##
   
  <a href="https://www.instagram.com/p.saraiva__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
