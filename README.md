@@ -25,7 +25,7 @@
   
   ##
   
-   <img align="center" width="148" height="180" src="https://tenor.com/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796">
+   <img align="center" width="498" height="406" src="https://tenor.com/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796">
   
   ##
   
