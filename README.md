@@ -22,8 +22,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
-  
-  ##
+ 
   <div>
    <img align="center" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
   </div> 
