@@ -1,4 +1,4 @@
-### Ei amigo(a), meu nome é Pedro Victor e sou desenvolvedor front-end, tudo bem com você?? 👋
+### <h1 align="center"> Ei amigo(a), meu nome é Pedro e sou desenvolvedor front-end <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 - 🧑‍🎓 Atualmente estou no meu último ano do Ensino Médio e a partir de fevereiro de 2022 começarei a cursar o ensino superior no curso de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista). 
 - 🖥️ Estou estudando e aprimorando meu conhecimento na linguagem JavaScript, já tenho domínio em HTML5, CSS3, Bootstrap e git.
@@ -27,14 +27,13 @@
    <img align="right" height="180em" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
   </div> 
   
-  ##
   
+  
+  ## <br /> 🙋‍♂️ Connect with me
  <a href="https://www.instagram.com/p.saraiva__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:pedrosaraivadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/pedro-victor-saraiva-7829931b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/pedrodev364" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  
- 
   
 ![Snake animation](https://github.com/Pedrodev3/Pedrodev3/blob/output/github-contribution-grid-snake.svg)
