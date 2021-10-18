@@ -24,9 +24,10 @@
 </div>
   
   ##
-  
-   <img width="498" height="406" src="https://tenor.com/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796">
-  
+  <div>
+   <img align="center" width="498" height="406" src="https://tenor.com/view/cyberpunk2077-keanu-we-have-a-city-to-burn-handsome-shades-off-gif-16336796">
+  </div> 
+ 
   ##
   
  <a href="https://www.instagram.com/p.saraiva__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
