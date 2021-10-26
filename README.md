@@ -4,7 +4,6 @@
 - 🖥️ Estou estudando e aprimorando meu conhecimento na linguagem JavaScript, já tenho domínio em HTML5, CSS3, Bootstrap e git.
 - 😎 Estou a procura de um estágio ou um trabalho em um projeto como freelancer. Tenho como interesse o meu desenvolvimento como profissional e o aumento da minha networking na área de TI.
 - 💬 Se tiver interesse em se conectar e trocar um papo comigo sobre essa área tão maravilhosa que é a de TI, não hesite em me chamar, caro programador(a) 😉.
-- 📫 Como me contatar: pelo e-mail "pedrosaraivadev@gmail.com" ou pelas redes sociais que estão logo abaixo ⬇️.
 
 
 <div align="center">
