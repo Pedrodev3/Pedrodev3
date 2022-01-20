@@ -1,7 +1,7 @@
 ### <h1 align="center"> Ei amigo(a), meu nome é Pedro e sou desenvolvedor front-end <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-- 🧑‍🎓 Atualmente estou no meu último ano do Ensino Médio e a partir de fevereiro de 2022 começarei a cursar o ensino superior no curso de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista). 
-- 🖥️ Estou estudando e aprimorando meu conhecimento na linguagem JavaScript, já tenho domínio em HTML5, CSS3, Bootstrap, SASS e git.
+- 🧑‍🎓 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista). 
+- 🖥️ Estou estudando e aprimorando meu conhecimento na linguagem JavaScript, já tenho domínio em HTML5, CSS, SASS, Bootstrap e git.
 - 😎 Estou a procura de um estágio ou um trabalho em um projeto como freelancer. Tenho como interesse o meu desenvolvimento como profissional e o aumento da minha networking na área de TI.
 - 💬 Se tiver interesse em se conectar e trocar um papo comigo sobre essa área tão maravilhosa que é a de TI, não hesite em me chamar, caro programador(a) 😉.
 
