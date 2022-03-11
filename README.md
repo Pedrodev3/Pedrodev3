@@ -24,6 +24,8 @@
    <img align="right" height="180em" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
   </div> 
   
+  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+  
   
   
   ## <br /> 🙋‍♂️ Connect with me
