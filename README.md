@@ -2,8 +2,8 @@
 
 - 🧑‍🎓 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista).
 - 😎 Trabalho como desenvolvedor de Software na IBM Brasil 💙 
-- 🖥️ Tecnologias que possuo domínio: Angular, TypeScript, Jasmine, JavaScript, Jest, HTML, CSS (SCSS), Bootstrap, Oracle DataBase, Google Analytics. <br />
-    Conhecimento e facilidade no uso de Python e Java.
+- 🖥️ Tecnologias que possuo domínio: Angular, React, TypeScript, Jasmine, JavaScript, Jest, HTML, CSS (SCSS), Bootstrap, Oracle DataBase, Google Analytics. <br />
+    Conhecimento e facilidade no uso de Python e Java com Springboot.
 - 💬 Se tiver interesse em se conectar e trocar um papo comigo sobre essa área tão maravilhosa que é a de TI, não hesite em me chamar, caro programador(a) 😉.
 
 
@@ -17,6 +17,7 @@
 <div style="display: inline_block"></br>
   
   <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Pedro-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Pedro-Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
   <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
