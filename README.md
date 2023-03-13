@@ -1,4 +1,4 @@
-### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Victor+e+sou+desenvolvedor+Full+Stack+)](https://git.io/typing-svg) </h1>
+### <h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Victor+e+sou+desenvolvedor+Full+Stack+)](https://git.io/typing-svg) </h1>
 
 - 🧑‍🎓 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista).
 - 😎 Trabalho como desenvolvedor de Software na IBM Brasil 💙 
