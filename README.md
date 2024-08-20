@@ -1,4 +1,4 @@
-### <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F7F0&background=FFFFFF00&vCenter=true&repeat=false&width=750&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Victor+e+sou+desenvolvedor+Full+Stack+)](https://git.io/typing-svg)</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+my+name+is+Pedro%2C+and+it's+a+pleasure+to+meet+you.)](https://git.io/typing-svg)</h1>
 
 
 
