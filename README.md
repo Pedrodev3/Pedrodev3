@@ -2,9 +2,9 @@
 
 
 
+- I work as a Software Developer at IBM Brazil.
 - I'm currently pursuing an MBA in Software Engineering at USP/ESALQ.
 - I have a degree in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista).
-- I work as a Software Developer at IBM Brazil.
 - Technologies I'm proficient in: Angular, React, Spring Boot, AWS, Oracle Database.
 - If you're interested in connecting and having a chat about this amazing field of IT, don't hesitate to reach out, fellow programmer.
 
