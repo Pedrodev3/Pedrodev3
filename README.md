@@ -29,20 +29,16 @@
   <img align="center" alt="Pedro-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <div>
-  <img align="right" height="180em" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
-</div> 
 </div>
-  
 
-  ## <br /> 🙋‍♂️ Connect with me
+  ## 🙋‍♂️ Connect with me
  <a href = "mailto:pedrosaraivadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://t.me/pedrodev364" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/pedro-victor-saraiva-7829931b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+ <div>
+  <img align="right" height="180em" style="margin: -200px 0px 0px 0px;" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif">
+ </div> 
 
 <br />
 
-![Snake animation](https://github.com/Pedrodev3/Pedrodev3/blob/output/github-contribution-grid-snake.svg)
