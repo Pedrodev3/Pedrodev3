@@ -2,11 +2,11 @@
 
 
 
-- 🧑‍🎓 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista).
-- 😎 Trabalho como desenvolvedor de Software na IBM Brasil 💙 
-- 🖥️ Tecnologias que possuo domínio: Angular, React, TypeScript, Jasmine, JavaScript, Jest, HTML, CSS (SCSS), Bootstrap, Oracle DataBase, Google Analytics. <br />
-    Conhecimento e facilidade no uso de Python e Java com Springboot.
-- 💬 Se tiver interesse em se conectar e trocar um papo comigo sobre essa área tão maravilhosa que é a de TI, não hesite em me chamar, caro programador(a) 😉.
+- I'm currently pursuing an MBA in Software Engineering at USP/ESALQ.
+- I have a degree in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista).
+- I work as a Software Developer at IBM Brazil.
+- Technologies I'm proficient in: Angular, React, Spring Boot, AWS, Oracle Database.
+- If you're interested in connecting and having a chat about this amazing field of IT, don't hesitate to reach out, fellow programmer.
 
 
 <div align="center">
