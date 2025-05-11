@@ -2,7 +2,7 @@
 
 
 
-- I work as a Software Developer at IBM Brazil.
+- I work as a Software Enginner at Netcracker Technology.
 - I'm currently pursuing an MBA in Software Engineering at USP/ESALQ.
 - I have a degree in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista).
 - Technologies I'm proficient in: Angular, React, Spring Boot, AWS, Oracle Database.
